@@ -14,16 +14,26 @@
         "tab": "Support",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "About Karat",
             "pages": [
-              "support/getting-started/testing123",
-              "index",
-              "quickstart",
-              "development"
+              "support/getting-started/testing123"
+            ]
+          },
+          {
+            "group": "Karat Card",
+            "pages": [
+              "support/karat-card/untitled-page"
+            ]
+          },
+          {
+            "group": "Karat Banking",
+            "pages": [
+              "support/karat-banking/untitled-page"
             ]
           },
           {
             "group": "Customization",
+            "hidden": true,
             "pages": [
               "essentials/settings",
               "essentials/navigation"
@@ -31,6 +41,7 @@
           },
           {
             "group": "Writing content",
+            "hidden": true,
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -40,6 +51,7 @@
           },
           {
             "group": "AI tools",
+            "hidden": true,
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
