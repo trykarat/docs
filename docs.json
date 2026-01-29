@@ -77,9 +77,7 @@
               "karat-credit-card/eligibility-underwriting-and-limits/untitled-page",
               "karat-credit-card/eligibility-underwriting-and-limits/what-are-the-types-of-accounts-i-can-link",
               "karat-credit-card/eligibility-underwriting-and-limits/how-long-does-a-bank-account-need-to-be-open-before-i-can-link-it-to-boost-my-limit",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-factors-are-used-to-determine-my-limit",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-is-plaid",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-if-my-bank-isnt-compatible-with-plaid"
+              "karat-credit-card/eligibility-underwriting-and-limits/what-factors-are-used-to-determine-my-limit"
             ]
           },
           {
@@ -102,9 +100,19 @@
             ]
           },
           {
+            "group": "Managing cards",
+            "pages": [
+              "karat-credit-card/managing-cards/how-do-i-set-and-adjust-limits-on-my-karat-cards",
+              "karat-credit-card/managing-cards/can-i-deactivate-and-reactivate-cards"
+            ]
+          },
+          {
             "group": "Your Karat Credit Card account",
             "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-3/untitled-page"
+              "karat-credit-card/your-karat-credit-card-account/how-do-i-change-my-linked-bank-for-payment",
+              "karat-credit-card/your-karat-credit-card-account/what-are-the-figures-in-my-transactions-page",
+              "karat-credit-card/your-karat-credit-card-account/where-can-i-pull-a-transaction-report",
+              "karat-credit-card/your-karat-credit-card-account/what-do-the-different-statuses-mean-in-my-transaction-list"
             ]
           },
           {
@@ -138,6 +146,16 @@
             "pages": [
               "karat-credit-card/fraud-and-theft/theres-fraudulent-activity-on-my-account",
               "karat-credit-card/fraud-and-theft/my-card-was-lost-or-stolen"
+            ]
+          },
+          {
+            "group": "Connected banks",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits/what-is-plaid",
+              "karat-credit-card/eligibility-underwriting-and-limits/what-if-my-bank-isnt-compatible-with-plaid",
+              "karat-credit-card/connected-banks/whats-the-difference-between-plaid-and-ach",
+              "karat-credit-card/connected-banks/i-m-having-issues-connecting-my-bank-via-plaid-what-should-i-do",
+              "karat-credit-card/connected-banks/can-i-add-multiple-bank-accounts"
             ]
           },
           {
@@ -226,7 +244,23 @@
       },
       {
         "tab": "General",
-        "pages": [
+        "groups": [
+          {
+            "group": "Account information",
+            "pages": [
+              "general/account-information/my-business-has-filed-for-bankruptcy",
+              "general/account-information/how-do-i-update-my-personal-information"
+            ]
+          },
+          {
+            "group": "Dashboard access",
+            "pages": [
+              "general/dashboard-access/where-can-i-find-my-account-details",
+              "general/dashboard-access/how-do-i-log-into-my-karat-account",
+              "general/dashboard-access/i-cant-log-in-how-do-i-reset-my-password",
+              "general/dashboard-access/how-do-i-change-my-password"
+            ]
+          },
           {
             "group": "Security and privacy",
             "pages": []
