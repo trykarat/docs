@@ -117,13 +117,18 @@
           {
             "group": "Billing and payment",
             "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-5/untitled-page"
+              "karat-credit-card/billing-and-payment/is-there-a-grace-period",
+              "karat-credit-card/billing-and-payment/can-i-change-my-payment-due-date",
+              "karat-credit-card/billing-and-payment/how-do-i-reschedule-a-payment",
+              "karat-credit-card/billing-and-payment/how-do-i-pay-my-bill-early"
             ]
           },
           {
             "group": "Disputes",
             "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-6/untitled-page"
+              "karat-credit-card/disputes/does-karat-offer-chargebacks",
+              "karat-credit-card/disputes/how-do-i-dispute-a-transaction",
+              "karat-credit-card/disputes/does-karat-offer-purchase-protection"
             ]
           },
           {
