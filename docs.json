@@ -16,6 +16,7 @@
           {
             "group": "About Karat",
             "pages": [
+              "support/getting-started/welcome",
               "support/getting-started/testing123"
             ]
           },
