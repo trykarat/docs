@@ -149,7 +149,11 @@
           {
             "group": "General",
             "pages": [
-              "karat-banking/untitled-page"
+              "karat-banking/general/untitled-page-3",
+              "karat-banking/general/untitled-page-2",
+              "karat-banking/general/untitled-page-1",
+              "karat-banking/untitled-page",
+              "karat-banking/general/untitled-page"
             ]
           },
           {
@@ -157,6 +161,44 @@
             "pages": [
               "karat-banking/account-sign-up-and-eligibility/untitled-page"
             ]
+          },
+          {
+            "group": "Card usage",
+            "pages": []
+          },
+          {
+            "group": "Linking your Karat Banking account with other platforms",
+            "pages": []
+          },
+          {
+            "group": "Customer support and troubleshooting",
+            "pages": []
+          },
+          {
+            "group": "Fees and charges",
+            "pages": []
+          },
+          {
+            "group": "User roles and permissions",
+            "pages": []
+          },
+          {
+            "group": "Payments and transactions",
+            "pages": []
+          },
+          {
+            "group": "Regulatory and compliance",
+            "pages": []
+          },
+          {
+            "group": "Rewards and benefits",
+            "pages": [
+              "karat-banking/rewards-and-benefits/what-apy-rate-does-karat-currently-offer"
+            ]
+          },
+          {
+            "group": "Security and privacy",
+            "pages": []
           }
         ]
       }
