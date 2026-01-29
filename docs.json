@@ -77,7 +77,9 @@
               "karat-credit-card/eligibility-underwriting-and-limits/untitled-page",
               "karat-credit-card/eligibility-underwriting-and-limits/what-are-the-types-of-accounts-i-can-link",
               "karat-credit-card/eligibility-underwriting-and-limits/how-long-does-a-bank-account-need-to-be-open-before-i-can-link-it-to-boost-my-limit",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-factors-are-used-to-determine-my-limit"
+              "karat-credit-card/eligibility-underwriting-and-limits/what-factors-are-used-to-determine-my-limit",
+              "karat-credit-card/eligibility-underwriting-and-limits/what-is-plaid",
+              "karat-credit-card/eligibility-underwriting-and-limits/what-if-my-bank-isnt-compatible-with-plaid"
             ]
           },
           {
@@ -155,13 +157,9 @@
           {
             "group": "Travel and international use",
             "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-10/untitled-page"
-            ]
-          },
-          {
-            "group": "Security and privacy",
-            "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-11/untitled-page"
+              "karat-credit-card/travel-and-international-use/can-i-use-my-card-outside-of-the-us",
+              "karat-credit-card/travel-and-international-use/are-there-fees-for-international-use",
+              "karat-credit-card/travel-and-international-use/should-i-give-karat-a-heads-up-before-i-travel"
             ]
           }
         ]
@@ -228,9 +226,13 @@
       },
       {
         "tab": "General",
-        "products": [
+        "pages": [
           {
-            "product": "Karat + QuickBooks",
+            "group": "Security and privacy",
+            "pages": []
+          },
+          {
+            "group": "Karat + QuickBooks",
             "pages": [
               "general/karat-quick-books/karat-and-qbo-setup"
             ]
