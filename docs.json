@@ -14,7 +14,6 @@
         "tab": "Overview",
         "pages": [
           "support/getting-started/welcome",
-          "support/getting-started/testing123",
           {
             "group": "Customization",
             "hidden": true,
@@ -47,13 +46,43 @@
       {
         "tab": "Karat Credit Card",
         "pages": [
-          "support/karat-card/untitled-page"
+          "karat-credit-card/overview",
+          {
+            "group": "General",
+            "pages": [
+              "support/karat-card/untitled-page"
+            ]
+          },
+          {
+            "group": "Applying",
+            "pages": [
+              "karat-credit-card/applying/untitled-page"
+            ]
+          },
+          {
+            "group": "Eligibility, underwriting, and limits",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits/untitled-page"
+            ]
+          }
         ]
       },
       {
         "tab": "Karat Banking",
         "pages": [
-          "karat-banking/untitled-page"
+          "karat-banking/overview",
+          {
+            "group": "General",
+            "pages": [
+              "karat-banking/untitled-page"
+            ]
+          },
+          {
+            "group": "Account sign up & eligibility",
+            "pages": [
+              "karat-banking/account-sign-up-and-eligibility/untitled-page"
+            ]
+          }
         ]
       }
     ]
