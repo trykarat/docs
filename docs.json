@@ -11,27 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Support",
+        "tab": "Overview",
         "pages": [
           "support/getting-started/welcome",
-          {
-            "group": "About Karat",
-            "pages": [
-              "support/getting-started/testing123"
-            ]
-          },
-          {
-            "group": "Karat Card",
-            "pages": [
-              "support/karat-card/untitled-page"
-            ]
-          },
-          {
-            "group": "Karat Banking",
-            "pages": [
-              "support/karat-banking/untitled-page"
-            ]
-          },
+          "support/getting-started/testing123",
           {
             "group": "Customization",
             "hidden": true,
@@ -60,6 +43,18 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Karat Credit Card",
+        "pages": [
+          "support/karat-card/untitled-page"
+        ]
+      },
+      {
+        "tab": "Karat Banking",
+        "pages": [
+          "support/karat-banking/untitled-page"
+        ]
       }
     ]
   },
@@ -73,10 +68,6 @@
       {
         "label": "Support",
         "href": "mailto:concierge@trykarat.com"
-      },
-      {
-        "label": "Dashboard",
-        "href": "https://app.trykarat.com/signin"
       }
     ],
     "primary": {
