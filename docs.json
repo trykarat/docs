@@ -134,13 +134,16 @@
           {
             "group": "Fraud and theft",
             "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-7/untitled-page"
+              "karat-credit-card/fraud-and-theft/theres-fraudulent-activity-on-my-account",
+              "karat-credit-card/fraud-and-theft/my-card-was-lost-or-stolen"
             ]
           },
           {
             "group": "Holds and refunds",
             "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-8/untitled-page"
+              "karat-credit-card/holds-and-refunds/i-m-expecting-a-refund-but-the-card-i-used-has-been-deactivated-will-i-still-get-the-refund",
+              "karat-credit-card/holds-and-refunds/a-refund-is-taking-longer-than-expected-should-i-reach-out-to-karat-or-the-merchant",
+              "karat-credit-card/holds-and-refunds/i-m-waiting-for-a-hotel-to-release-the-hold-on-my-card-how-long-does-this-take"
             ]
           },
           {
@@ -220,6 +223,17 @@
           {
             "group": "Security and privacy",
             "pages": []
+          }
+        ]
+      },
+      {
+        "tab": "General",
+        "products": [
+          {
+            "product": "Karat + QuickBooks",
+            "pages": [
+              "general/karat-quick-books/karat-and-qbo-setup"
+            ]
           }
         ]
       }
