@@ -14,6 +14,7 @@
         "tab": "Overview",
         "pages": [
           "support/getting-started/welcome",
+          "overview/about-karat",
           {
             "group": "Customization",
             "hidden": true,
@@ -50,7 +51,15 @@
           {
             "group": "General",
             "pages": [
-              "support/karat-card/untitled-page"
+              "support/karat-card/untitled-page",
+              "support/karat-card/untitled-page-copied-1",
+              "support/karat-card/untitled-page-copied-2",
+              "support/karat-card/untitled-page-copied-3",
+              "support/karat-card/untitled-page-copied-4",
+              "support/karat-card/untitled-page-copied-5",
+              "support/karat-card/untitled-page-copied-6",
+              "support/karat-card/untitled-page-copied-7",
+              "support/karat-card/untitled-page-copied-8"
             ]
           },
           {
@@ -63,6 +72,72 @@
             "group": "Eligibility, underwriting, and limits",
             "pages": [
               "karat-credit-card/eligibility-underwriting-and-limits/untitled-page"
+            ]
+          },
+          {
+            "group": "Customization, shipping, and activation",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-1/untitled-page"
+            ]
+          },
+          {
+            "group": "Rewards",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-2/untitled-page"
+            ]
+          },
+          {
+            "group": "Your Karat Credit Card account",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-3/untitled-page"
+            ]
+          },
+          {
+            "group": "Referrals",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-4/untitled-page"
+            ]
+          },
+          {
+            "group": "Billing and payment",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-5/untitled-page"
+            ]
+          },
+          {
+            "group": "Disputes",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-6/untitled-page"
+            ]
+          },
+          {
+            "group": "Fraud and theft",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-7/untitled-page"
+            ]
+          },
+          {
+            "group": "Holds and refunds",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-8/untitled-page"
+            ]
+          },
+          {
+            "group": "Data exports and QuickBooks",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-9/untitled-page"
+            ]
+          },
+          {
+            "group": "Travel and international use",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-10/untitled-page"
+            ]
+          },
+          {
+            "group": "Security and privacy",
+            "pages": [
+              "karat-credit-card/eligibility-underwriting-and-limits-copied-11/untitled-page"
             ]
           }
         ]
