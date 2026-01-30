@@ -51,15 +51,15 @@
           {
             "group": "General",
             "pages": [
-              "support/karat-card/untitled-page",
-              "support/karat-card/untitled-page-copied-1",
-              "support/karat-card/untitled-page-copied-2",
-              "support/karat-card/untitled-page-copied-3",
-              "support/karat-card/untitled-page-copied-4",
-              "support/karat-card/untitled-page-copied-5",
-              "support/karat-card/untitled-page-copied-6",
-              "support/karat-card/untitled-page-copied-7",
-              "support/karat-card/untitled-page-copied-8"
+              "karat-credit-card/general/what-kind-of-card-is-karat",
+              "karat-credit-card/general/what-is-the-karat-card-made-of",
+              "karat-credit-card/general/where-can-i-use-the-karat-card",
+              "karat-credit-card/general/can-i-use-the-karat-card-for-purchases-that-arent-business-related",
+              "karat-credit-card/general/can-i-get-a-karat-card-if-i-m-not-in-the-us-or-i-m-not-a-us-resident",
+              "karat-credit-card/general/how-do-the-rewards-work",
+              "karat-credit-card/general/what-logo-design-is-on-the-card",
+              "karat-credit-card/general/what-are-the-start-and-end-dates-of-the-billing-cycle",
+              "karat-credit-card/general/when-is-payment-due"
             ]
           },
           {
