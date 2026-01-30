@@ -199,16 +199,28 @@
           {
             "group": "Account sign up & eligibility",
             "pages": [
-              "karat-banking/account-sign-up-and-eligibility/untitled-page"
+              "karat-banking/account-sign-up-and-eligibility/can-businesses-sign-up-for-karat-banking",
+              "karat-banking/account-sign-up-and-eligibility/untitled-page",
+              "karat-banking/account-sign-up-and-eligibility/what-is-a-p-o-box-or-pmb",
+              "karat-banking/account-sign-up-and-eligibility/is-there-a-minimum-credit-score-or-requirement",
+              "karat-banking/account-sign-up-and-eligibility/can-i-have-multiple-accounts-under-my-name",
+              "karat-banking/account-sign-up-and-eligibility/what-documents-or-information-do-i-need-to-provide"
             ]
           },
           {
             "group": "Card usage",
-            "pages": []
+            "pages": [
+              "karat-banking/card-usage/does-karat-banking-offer-virtual-cards",
+              "karat-banking/card-usage/where-can-i-use-my-karat-business-banking-visa-card",
+              "karat-banking/card-usage/how-do-i-activate-my-karat-business-banking-visa-card",
+              "karat-banking/card-usage/what-should-i-do-if-my-card-is-lost-or-stolen"
+            ]
           },
           {
             "group": "Linking your Karat Banking account with other platforms",
-            "pages": []
+            "pages": [
+              "karat-banking/linking-your-karat-banking-account-with-other-platforms/google-ad-sense"
+            ]
           },
           {
             "group": "Customer support and troubleshooting",
