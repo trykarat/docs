@@ -213,12 +213,14 @@
               "karat-banking/card-usage/does-karat-banking-offer-virtual-cards",
               "karat-banking/card-usage/where-can-i-use-my-karat-business-banking-visa-card",
               "karat-banking/card-usage/how-do-i-activate-my-karat-business-banking-visa-card",
-              "karat-banking/card-usage/what-should-i-do-if-my-card-is-lost-or-stolen"
+              "karat-banking/card-usage/what-should-i-do-if-my-card-is-lost-or-stolen",
+              "karat-banking/card-usage/how-do-i-issue-a-new-banking-card-for-my-employee"
             ]
           },
           {
             "group": "Linking your Karat Banking account with other platforms",
             "pages": [
+              "karat-banking/linking-your-karat-banking-account-with-other-platforms/direct-deposit-overview",
               "karat-banking/linking-your-karat-banking-account-with-other-platforms/google-ad-sense",
               "karat-banking/linking-your-karat-banking-account-with-other-platforms/paypal",
               "karat-banking/linking-your-karat-banking-account-with-other-platforms/stripe"
@@ -226,19 +228,37 @@
           },
           {
             "group": "Customer support and troubleshooting",
-            "pages": []
+            "pages": [
+              "karat-banking/customer-support-and-troubleshooting/how-do-i-freeze-or-cancel-my-card",
+              "karat-banking/customer-support-and-troubleshooting/what-happens-if-my-transaction-is-declined",
+              "karat-banking/customer-support-and-troubleshooting/how-do-i-close-my-karat-banking-account"
+            ]
           },
           {
             "group": "Fees and charges",
-            "pages": []
-          },
-          {
-            "group": "User roles and permissions",
-            "pages": []
+            "pages": [
+              "karat-banking/fees-and-charges/is-there-an-overdraft-fee",
+              "karat-banking/fees-and-charges/does-karat-banking-have-any-monthly-or-annual-fees",
+              "karat-banking/fees-and-charges/what-is-the-difference-between-karat-banking-and-karat-premium",
+              "karat-banking/fees-and-charges/how-do-i-cancel-my-karat-premium-free-trial",
+              "karat-banking/fees-and-charges/how-can-i-avoid-unnecessary-fees",
+              "karat-banking/fees-and-charges/are-there-transaction-fees-for-deposits-withdrawals-or-transfers",
+              "karat-banking/fees-and-charges/how-much-does-karat-premium-cost-can-the-fee-be-waived",
+              "karat-banking/fees-and-charges/what-happens-if-i-cancel-during-a-free-trial"
+            ]
           },
           {
             "group": "Payments and transactions",
-            "pages": []
+            "pages": [
+              "karat-banking/payments-and-transactions/can-i-connect-my-karat-banking-account-to-payment-apps-like-pay-pal-venmo-or-zelle",
+              "karat-banking/payments-and-transactions/how-long-do-transfers-take",
+              "karat-banking/payments-and-transactions/what-are-the-transaction-limits",
+              "karat-banking/payments-and-transactions/can-i-send-and-receive-money-with-karat-banking",
+              "karat-banking/payments-and-transactions/how-do-i-add-money-to-my-karat-banking-account",
+              "karat-banking/payments-and-transactions/what-bank-name-should-i-list-for-any-invoice-payments",
+              "karat-banking/payments-and-transactions/can-i-set-up-direct-deposit-with-karat-banking",
+              "karat-banking/payments-and-transactions/switching-your-subscriptions-to-karat"
+            ]
           },
           {
             "group": "Regulatory and compliance",
@@ -260,6 +280,12 @@
         "tab": "General",
         "groups": [
           {
+            "group": "Support",
+            "pages": [
+              "karat-banking/customer-support-and-troubleshooting/how-do-i-contact-karat-banking-customer-support-what-hours-are-they-available"
+            ]
+          },
+          {
             "group": "Account information",
             "pages": [
               "general/account-information/my-business-has-filed-for-bankruptcy",
@@ -272,7 +298,19 @@
               "general/dashboard-access/where-can-i-find-my-account-details",
               "general/dashboard-access/how-do-i-log-into-my-karat-account",
               "general/dashboard-access/i-cant-log-in-how-do-i-reset-my-password",
-              "general/dashboard-access/how-do-i-change-my-password"
+              "general/dashboard-access/how-do-i-change-my-password",
+              {
+                "group": "User roles and permissions",
+                "pages": [
+                  "general/dashboard-access/user-roles-and-permissions/how-do-i-change-a-members-role",
+                  "karat-banking/user-roles-and-permissions/what-are-the-different-user-roles-and-what-can-they-do",
+                  "karat-banking/user-roles-and-permissions/what-specific-banking-access-and-permission-does-each-role-have",
+                  "karat-banking/user-roles-and-permissions/what-specific-card-access-and-permission-does-each-role-have",
+                  "general/dashboard-access/user-roles-and-permissions/can-roles-be-shared-across-products",
+                  "general/dashboard-access/user-roles-and-permissions/what-happens-if-a-users-role-is-upgraded-or-downgraded",
+                  "general/dashboard-access/user-roles-and-permissions/how-do-i-invite-a-team-member"
+                ]
+              }
             ]
           },
           {
