@@ -214,7 +214,16 @@
               "karat-banking/card-usage/where-can-i-use-my-karat-business-banking-visa-card",
               "karat-banking/card-usage/how-do-i-activate-my-karat-business-banking-visa-card",
               "karat-banking/card-usage/what-should-i-do-if-my-card-is-lost-or-stolen",
-              "karat-banking/card-usage/how-do-i-issue-a-new-banking-card-for-my-employee"
+              "karat-banking/card-usage/how-do-i-issue-a-new-banking-card-for-my-employee",
+              "karat-banking/security-and-privacy/how-can-i-dispute-an-unauthorized-transaction"
+            ]
+          },
+          {
+            "group": "ATM usage",
+            "pages": [
+              "karat-banking/atm-usage/are-there-fees-for-using-atms-can-fees-be-reimbursed",
+              "karat-banking/atm-usage/what-atm-does-my-karat-banking-card-work-at",
+              "karat-banking/atm-usage/how-is-my-card-pin-set-can-i-change-it"
             ]
           },
           {
@@ -257,22 +266,31 @@
               "karat-banking/payments-and-transactions/how-do-i-add-money-to-my-karat-banking-account",
               "karat-banking/payments-and-transactions/what-bank-name-should-i-list-for-any-invoice-payments",
               "karat-banking/payments-and-transactions/can-i-set-up-direct-deposit-with-karat-banking",
-              "karat-banking/payments-and-transactions/switching-your-subscriptions-to-karat"
+              "karat-banking/payments-and-transactions/switching-your-subscriptions-to-karat",
+              "karat-banking/payments-and-transactions/how-do-i-set-up-a-recurring-transfer",
+              "karat-banking/payments-and-transactions/how-do-i-cancel-a-recurring-transfer",
+              "karat-banking/payments-and-transactions/how-do-i-transfer-money-from-my-checking-to-atp-and-from-atp-to-checking",
+              "karat-banking/payments-and-transactions/what-should-i-handle-while-switching-to-karat-banking"
             ]
           },
           {
             "group": "Regulatory and compliance",
-            "pages": []
+            "pages": [
+              "karat-banking/regulatory-and-compliance/can-i-report-tax-related-concerns-for-my-account",
+              "karat-banking/regulatory-and-compliance/how-does-karat-banking-comply-with-banking-regulations",
+              "karat-banking/regulatory-and-compliance/is-karat-banking-fdic-insured"
+            ]
           },
           {
             "group": "Rewards and benefits",
             "pages": [
-              "karat-banking/rewards-and-benefits/what-apy-rate-does-karat-currently-offer"
+              "karat-banking/rewards-and-benefits/are-there-any-partner-perks-or-discounts",
+              "karat-banking/rewards-and-benefits/does-karat-banking-offer-cashback-or-rewards",
+              "karat-banking/rewards-and-benefits/can-i-refer-creators-to-karat-banking",
+              "karat-banking/rewards-and-benefits/what-apy-rate-does-karat-currently-offer",
+              "karat-banking/rewards-and-benefits/what-is-an-atp-account",
+              "karat-banking/rewards-and-benefits/when-is-yield-paid-out-for-the-atp-account"
             ]
-          },
-          {
-            "group": "Security and privacy",
-            "pages": []
           }
         ]
       },
@@ -315,7 +333,11 @@
           },
           {
             "group": "Security and privacy",
-            "pages": []
+            "pages": [
+              "general/security-and-privacy/how-does-karat-protect-my-information",
+              "general/security-and-privacy/what-should-i-do-if-i-suspect-fraudulent-activity",
+              "general/security-and-privacy/does-karat-support-two-factor-authentication-2-fa"
+            ]
           },
           {
             "group": "Karat + QuickBooks",
