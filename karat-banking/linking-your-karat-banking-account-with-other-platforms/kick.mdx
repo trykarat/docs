@@ -1,0 +1,34 @@
+---
+title: "Kick"
+---
+
+<Steps>
+  <Step title="Log in & Open Creator Dashboard">
+    - Sign into your Kick account and click your avatar → **Creator Dashboard** → go to **Revenue**.
+  </Step>
+  <Step title="Access Your Stripe Setup">
+    - If you're already set up, it may show “Connected with Stripe.”
+    - Otherwise use the **Setup account** flow to reach your Stripe dashboard linked to Kick payouts.
+  </Step>
+  <Step title="Switch to Your New Bank Details">
+    **Option A: Via Kick’s Interface**
+
+    - Select your country, then reach Step 7: **Select an account for payouts**.
+    - Enter your **new bank routing number, account number, account type**, and confirm **currency** and **country**.
+    - Click **Save**, review, then **Agree & Submit**. A confirmation email from Stripe will follow.
+
+    **Option B: Directly in Stripe (if redirected)**
+
+    - Log in to your **Stripe Dashboard**, go to Settings → **Bank accounts & scheduling** (or External Payout Accounts).
+    - Click **Edit** next to the payout account. You may be prompted for verification via email/SMS or your previous bank details before proceeding.
+    - Enter your new bank details and save. Stripe will confirm it via email and initiate the update.
+  </Step>
+  <Step title="Confirmation & Testing">
+    - Stripe will send a verification email—follow the link to confirm.
+    - If any payout is already “in-transit,” it will go to the **old account**; future ones use the **new account**.
+  </Step>
+</Steps>
+
+<Note>
+  Note: You may receive a Notification of Change email from Stripe if the bank flagged a change; click that to confirm.
+</Note>
