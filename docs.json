@@ -9,9 +9,9 @@
   },
   "favicon": "/images/Webclip(4).png",
   "navigation": {
-    "products": [
+    "groups": [
       {
-        "product": "Overview",
+        "group": "Overview",
         "pages": [
           "support/getting-started/welcome",
           "overview/about-karat",
@@ -45,7 +45,7 @@
         ]
       },
       {
-        "product": "Karat Credit Card",
+        "group": "Karat Credit Card",
         "pages": [
           "karat-credit-card/overview",
           {
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "product": "Karat Banking",
+        "group": "Karat Banking",
         "pages": [
           "karat-banking/overview",
           {
@@ -302,8 +302,8 @@
         ]
       },
       {
-        "product": "General",
-        "groups": [
+        "group": "General",
+        "pages": [
           {
             "group": "Support",
             "pages": [
