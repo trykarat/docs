@@ -357,8 +357,8 @@
     ]
   },
   "logo": {
-    "light": "/images/Version=White.svg",
-    "dark": "/images/Version=Black(2).svg",
+    "light": "/images/Version=Black(2).svg",
+    "dark": "/images/Version=White.svg",
     "href": "https://trykarat.com"
   },
   "navbar": {
