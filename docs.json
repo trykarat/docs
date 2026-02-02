@@ -9,9 +9,9 @@
   },
   "favicon": "/images/Webclip(4).png",
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "Overview",
+        "product": "Overview",
         "pages": [
           "support/getting-started/welcome",
           "overview/about-karat",
@@ -45,7 +45,7 @@
         ]
       },
       {
-        "tab": "Karat Credit Card",
+        "product": "Karat Credit Card",
         "pages": [
           "karat-credit-card/overview",
           {
@@ -183,7 +183,7 @@
         ]
       },
       {
-        "tab": "Karat Banking",
+        "product": "Karat Banking",
         "pages": [
           "karat-banking/overview",
           {
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "tab": "General",
+        "product": "General",
         "groups": [
           {
             "group": "Support",
@@ -359,7 +359,7 @@
   "logo": {
     "light": "/images/Version=Black(2).svg",
     "dark": "/images/Version=White.svg",
-    "href": "https://trykarat.com"
+    "href": "/"
   },
   "navbar": {
     "links": [
