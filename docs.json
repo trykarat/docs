@@ -12,9 +12,9 @@
     "tabs": [
       {
         "tab": "Overview",
-        "menu": [
+        "anchors": [
           {
-            "item": "Overview",
+            "anchor": "Overview",
             "pages": [
               "support/getting-started/welcome",
               "overview/about-karat",
@@ -48,7 +48,7 @@
             ]
           },
           {
-            "item": "Karat Credit Card",
+            "anchor": "Karat Credit Card",
             "pages": [
               "karat-credit-card/overview",
               {
@@ -186,7 +186,7 @@
             ]
           },
           {
-            "item": "Karat Banking",
+            "anchor": "Karat Banking",
             "pages": [
               "karat-banking/overview",
               {
@@ -305,7 +305,7 @@
             ]
           },
           {
-            "item": "General",
+            "anchor": "General",
             "pages": [
               {
                 "group": "Support",
