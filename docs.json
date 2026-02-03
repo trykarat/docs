@@ -83,22 +83,22 @@
       },
       {
         "tab": "General",
-        "menu": [
+        "anchors": [
           {
-            "item": "Support",
+            "anchor": "Support",
             "pages": [
               "karat-banking/customer-support-and-troubleshooting/how-do-i-contact-karat-banking-customer-support-what-hours-are-they-available"
             ]
           },
           {
-            "item": "Account information",
+            "anchor": "Account information",
             "pages": [
               "general/account-information/my-business-has-filed-for-bankruptcy",
               "general/account-information/how-do-i-update-my-personal-information"
             ]
           },
           {
-            "item": "Dashboard access",
+            "anchor": "Dashboard access",
             "pages": [
               "general/dashboard-access/where-can-i-find-my-account-details",
               "general/dashboard-access/how-do-i-log-into-my-karat-account",
@@ -119,7 +119,7 @@
             ]
           },
           {
-            "item": "Security and privacy",
+            "anchor": "Security and privacy",
             "pages": [
               "general/security-and-privacy/how-does-karat-protect-my-information",
               "general/security-and-privacy/what-should-i-do-if-i-suspect-fraudulent-activity",
@@ -127,7 +127,7 @@
             ]
           },
           {
-            "item": "Karat + QuickBooks",
+            "anchor": "Karat + QuickBooks",
             "pages": [
               "general/karat-quick-books/karat-and-qbo-setup"
             ]
