@@ -188,7 +188,7 @@
           "karat-banking/overview",
           {
             "group": "General",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/general/untitled-page-3",
               "karat-banking/general/untitled-page-2",
@@ -199,7 +199,7 @@
           },
           {
             "group": "Account sign up & eligibility",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/account-sign-up-and-eligibility/can-businesses-sign-up-for-karat-banking",
               "karat-banking/account-sign-up-and-eligibility/untitled-page",
@@ -211,7 +211,7 @@
           },
           {
             "group": "Card usage",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/card-usage/does-karat-banking-offer-virtual-cards",
               "karat-banking/card-usage/where-can-i-use-my-karat-business-banking-visa-card",
@@ -223,7 +223,7 @@
           },
           {
             "group": "ATM usage",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/atm-usage/are-there-fees-for-using-atms-can-fees-be-reimbursed",
               "karat-banking/atm-usage/what-atm-does-my-karat-banking-card-work-at",
@@ -232,7 +232,7 @@
           },
           {
             "group": "Linking your Karat Banking account with other platforms",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/linking-your-karat-banking-account-with-other-platforms/direct-deposit-overview",
               "karat-banking/linking-your-karat-banking-account-with-other-platforms/google-ad-sense",
@@ -249,7 +249,7 @@
           },
           {
             "group": "Customer support and troubleshooting",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/customer-support-and-troubleshooting/how-do-i-freeze-or-cancel-my-card",
               "karat-banking/customer-support-and-troubleshooting/what-happens-if-my-transaction-is-declined",
@@ -258,7 +258,7 @@
           },
           {
             "group": "Fees and charges",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/fees-and-charges/is-there-an-overdraft-fee",
               "karat-banking/fees-and-charges/does-karat-banking-have-any-monthly-or-annual-fees",
@@ -272,7 +272,7 @@
           },
           {
             "group": "Payments and transactions",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/payments-and-transactions/can-i-connect-my-karat-banking-account-to-payment-apps-like-pay-pal-venmo-or-zelle",
               "karat-banking/payments-and-transactions/how-long-do-transfers-take",
@@ -290,7 +290,7 @@
           },
           {
             "group": "Regulatory and compliance",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/regulatory-and-compliance/can-i-report-tax-related-concerns-for-my-account",
               "karat-banking/regulatory-and-compliance/how-does-karat-banking-comply-with-banking-regulations",
@@ -299,7 +299,7 @@
           },
           {
             "group": "Rewards and benefits",
-            "expanded": true,
+            "expanded": false,
             "pages": [
               "karat-banking/rewards-and-benefits/are-there-any-partner-perks-or-discounts",
               "karat-banking/rewards-and-benefits/does-karat-banking-offer-cashback-or-rewards",
