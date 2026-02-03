@@ -48,310 +48,48 @@
         "tab": "Karat Credit Card",
         "pages": [
           "karat-credit-card/overview",
-          {
-            "group": "General",
-            "pages": [
-              "karat-credit-card/general/what-kind-of-card-is-karat",
-              "karat-credit-card/general/what-is-the-karat-card-made-of",
-              "karat-credit-card/general/where-can-i-use-the-karat-card",
-              "karat-credit-card/general/can-i-use-the-karat-card-for-purchases-that-arent-business-related",
-              "karat-credit-card/general/can-i-get-a-karat-card-if-i-m-not-in-the-us-or-i-m-not-a-us-resident",
-              "karat-credit-card/general/how-do-the-rewards-work",
-              "karat-credit-card/general/what-logo-design-is-on-the-card",
-              "karat-credit-card/general/what-are-the-start-and-end-dates-of-the-billing-cycle",
-              "karat-credit-card/general/when-is-payment-due"
-            ]
-          },
-          {
-            "group": "Applying",
-            "pages": [
-              "karat-credit-card/applying/untitled-page",
-              "karat-credit-card/applying/what-information-will-i-need-to-provide-when-i-apply",
-              "karat-credit-card/applying/can-i-apply-without-an-american-bank-account",
-              "karat-credit-card/applying/i-m-having-issues-connecting-my-bank-with-plaid"
-            ]
-          },
-          {
-            "group": "Eligibility, underwriting, and limits",
-            "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits/untitled-page",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-are-the-types-of-accounts-i-can-link",
-              "karat-credit-card/eligibility-underwriting-and-limits/how-long-does-a-bank-account-need-to-be-open-before-i-can-link-it-to-boost-my-limit",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-factors-are-used-to-determine-my-limit"
-            ]
-          },
-          {
-            "group": "Customization, shipping, and activation",
-            "pages": [
-              "karat-credit-card/customization-shipping-and-activation/what-card-colors-can-I-choose-from",
-              "karat-credit-card/customization-shipping-and-activation/when-where-and-how-will-my-karat-card-arrive",
-              "karat-credit-card/customization-shipping-and-activation/how-do-i-activate-my-karat-card"
-            ]
-          },
-          {
-            "group": "Rewards",
-            "pages": [
-              "karat-credit-card/rewards/how-does-karats-rewards-program-work",
-              "karat-credit-card/rewards/can-i-change-my-rewards",
-              "karat-credit-card/rewards/i-bought-a-few-different-items-from-a-store-some-are-within-my-rewards-categories-and-some-arent-can-i-be-rewarded-for-the-items-that-are-within-my-categories",
-              "karat-credit-card/rewards/i-have-a-purchase-that-wasnt-rewarded-can-this-be-fixed",
-              "karat-credit-card/rewards/how-do-i-redeem-my-rewards",
-              "karat-credit-card/rewards/why-was-a-purchase-that-fell-within-one-of-my-categories-not-rewarded"
-            ]
-          },
-          {
-            "group": "Managing cards",
-            "pages": [
-              "karat-credit-card/managing-cards/how-do-i-set-and-adjust-limits-on-my-karat-cards",
-              "karat-credit-card/managing-cards/can-i-deactivate-and-reactivate-cards"
-            ]
-          },
-          {
-            "group": "Your Karat Credit Card account",
-            "pages": [
-              "karat-credit-card/your-karat-credit-card-account/how-do-i-change-my-linked-bank-for-payment",
-              "karat-credit-card/your-karat-credit-card-account/what-are-the-figures-in-my-transactions-page",
-              "karat-credit-card/your-karat-credit-card-account/where-can-i-pull-a-transaction-report",
-              "karat-credit-card/your-karat-credit-card-account/what-do-the-different-statuses-mean-in-my-transaction-list"
-            ]
-          },
-          {
-            "group": "Referrals",
-            "pages": [
-              "karat-credit-card/referrals/how-do-i-refer-someone-to-karat",
-              "karat-credit-card/referrals/what-is-needed-from-my-referrals-to-credit-my-account",
-              "karat-credit-card/referrals/is-there-a-limit-to-the-number-of-referrals-i-can-make",
-              "karat-credit-card/referrals/what-do-i-earn-when-i-refer-people"
-            ]
-          },
-          {
-            "group": "Billing and payment",
-            "pages": [
-              "karat-credit-card/billing-and-payment/is-there-a-grace-period",
-              "karat-credit-card/billing-and-payment/can-i-change-my-payment-due-date",
-              "karat-credit-card/billing-and-payment/how-do-i-reschedule-a-payment",
-              "karat-credit-card/billing-and-payment/how-do-i-pay-my-bill-early"
-            ]
-          },
-          {
-            "group": "Disputes",
-            "pages": [
-              "karat-credit-card/disputes/does-karat-offer-chargebacks",
-              "karat-credit-card/disputes/how-do-i-dispute-a-transaction",
-              "karat-credit-card/disputes/does-karat-offer-purchase-protection"
-            ]
-          },
-          {
-            "group": "Fraud and theft",
-            "pages": [
-              "karat-credit-card/fraud-and-theft/theres-fraudulent-activity-on-my-account",
-              "karat-credit-card/fraud-and-theft/my-card-was-lost-or-stolen"
-            ]
-          },
-          {
-            "group": "Connected banks",
-            "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits/what-is-plaid",
-              "karat-credit-card/eligibility-underwriting-and-limits/what-if-my-bank-isnt-compatible-with-plaid",
-              "karat-credit-card/connected-banks/whats-the-difference-between-plaid-and-ach",
-              "karat-credit-card/connected-banks/i-m-having-issues-connecting-my-bank-via-plaid-what-should-i-do",
-              "karat-credit-card/connected-banks/can-i-add-multiple-bank-accounts"
-            ]
-          },
-          {
-            "group": "Holds and refunds",
-            "pages": [
-              "karat-credit-card/holds-and-refunds/i-m-expecting-a-refund-but-the-card-i-used-has-been-deactivated-will-i-still-get-the-refund",
-              "karat-credit-card/holds-and-refunds/a-refund-is-taking-longer-than-expected-should-i-reach-out-to-karat-or-the-merchant",
-              "karat-credit-card/holds-and-refunds/i-m-waiting-for-a-hotel-to-release-the-hold-on-my-card-how-long-does-this-take"
-            ]
-          },
-          {
-            "group": "Data exports and QuickBooks",
-            "pages": [
-              "karat-credit-card/eligibility-underwriting-and-limits-copied-9/untitled-page"
-            ]
-          },
-          {
-            "group": "Travel and international use",
-            "pages": [
-              "karat-credit-card/travel-and-international-use/can-i-use-my-card-outside-of-the-us",
-              "karat-credit-card/travel-and-international-use/are-there-fees-for-international-use",
-              "karat-credit-card/travel-and-international-use/should-i-give-karat-a-heads-up-before-i-travel"
-            ]
-          }
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
         "tab": "Karat Banking",
         "pages": [
           "karat-banking/overview",
-          {
-            "group": "General",
-            "pages": [
-              "karat-banking/general/untitled-page-3",
-              "karat-banking/general/untitled-page-2",
-              "karat-banking/general/untitled-page-1",
-              "karat-banking/untitled-page",
-              "karat-banking/general/untitled-page"
-            ]
-          },
-          {
-            "group": "Account sign up & eligibility",
-            "pages": [
-              "karat-banking/account-sign-up-and-eligibility/can-businesses-sign-up-for-karat-banking",
-              "karat-banking/account-sign-up-and-eligibility/untitled-page",
-              "karat-banking/account-sign-up-and-eligibility/what-is-a-p-o-box-or-pmb",
-              "karat-banking/account-sign-up-and-eligibility/is-there-a-minimum-credit-score-or-requirement",
-              "karat-banking/account-sign-up-and-eligibility/can-i-have-multiple-accounts-under-my-name",
-              "karat-banking/account-sign-up-and-eligibility/what-documents-or-information-do-i-need-to-provide"
-            ]
-          },
-          {
-            "group": "Card usage",
-            "pages": [
-              "karat-banking/card-usage/does-karat-banking-offer-virtual-cards",
-              "karat-banking/card-usage/where-can-i-use-my-karat-business-banking-visa-card",
-              "karat-banking/card-usage/how-do-i-activate-my-karat-business-banking-visa-card",
-              "karat-banking/card-usage/what-should-i-do-if-my-card-is-lost-or-stolen",
-              "karat-banking/card-usage/how-do-i-issue-a-new-banking-card-for-my-employee",
-              "karat-banking/security-and-privacy/how-can-i-dispute-an-unauthorized-transaction"
-            ]
-          },
-          {
-            "group": "ATM usage",
-            "pages": [
-              "karat-banking/atm-usage/are-there-fees-for-using-atms-can-fees-be-reimbursed",
-              "karat-banking/atm-usage/what-atm-does-my-karat-banking-card-work-at",
-              "karat-banking/atm-usage/how-is-my-card-pin-set-can-i-change-it"
-            ]
-          },
-          {
-            "group": "Linking your Karat Banking account with other platforms",
-            "pages": [
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/direct-deposit-overview",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/google-ad-sense",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/paypal",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/stripe",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/patreon",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/kick",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/x-twitter",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/fourthwall",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/stan-store",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/tiktok",
-              "karat-banking/linking-your-karat-banking-account-with-other-platforms/twitch"
-            ]
-          },
-          {
-            "group": "Customer support and troubleshooting",
-            "pages": [
-              "karat-banking/customer-support-and-troubleshooting/how-do-i-freeze-or-cancel-my-card",
-              "karat-banking/customer-support-and-troubleshooting/what-happens-if-my-transaction-is-declined",
-              "karat-banking/customer-support-and-troubleshooting/how-do-i-close-my-karat-banking-account"
-            ]
-          },
-          {
-            "group": "Fees and charges",
-            "pages": [
-              "karat-banking/fees-and-charges/is-there-an-overdraft-fee",
-              "karat-banking/fees-and-charges/does-karat-banking-have-any-monthly-or-annual-fees",
-              "karat-banking/fees-and-charges/what-is-the-difference-between-karat-banking-and-karat-premium",
-              "karat-banking/fees-and-charges/how-do-i-cancel-my-karat-premium-free-trial",
-              "karat-banking/fees-and-charges/how-can-i-avoid-unnecessary-fees",
-              "karat-banking/fees-and-charges/are-there-transaction-fees-for-deposits-withdrawals-or-transfers",
-              "karat-banking/fees-and-charges/how-much-does-karat-premium-cost-can-the-fee-be-waived",
-              "karat-banking/fees-and-charges/what-happens-if-i-cancel-during-a-free-trial"
-            ]
-          },
-          {
-            "group": "Payments and transactions",
-            "pages": [
-              "karat-banking/payments-and-transactions/can-i-connect-my-karat-banking-account-to-payment-apps-like-pay-pal-venmo-or-zelle",
-              "karat-banking/payments-and-transactions/how-long-do-transfers-take",
-              "karat-banking/payments-and-transactions/what-are-the-transaction-limits",
-              "karat-banking/payments-and-transactions/can-i-send-and-receive-money-with-karat-banking",
-              "karat-banking/payments-and-transactions/how-do-i-add-money-to-my-karat-banking-account",
-              "karat-banking/payments-and-transactions/what-bank-name-should-i-list-for-any-invoice-payments",
-              "karat-banking/payments-and-transactions/can-i-set-up-direct-deposit-with-karat-banking",
-              "karat-banking/payments-and-transactions/switching-your-subscriptions-to-karat",
-              "karat-banking/payments-and-transactions/how-do-i-set-up-a-recurring-transfer",
-              "karat-banking/payments-and-transactions/how-do-i-cancel-a-recurring-transfer",
-              "karat-banking/payments-and-transactions/how-do-i-transfer-money-from-my-checking-to-atp-and-from-atp-to-checking",
-              "karat-banking/payments-and-transactions/what-should-i-handle-while-switching-to-karat-banking"
-            ]
-          },
-          {
-            "group": "Regulatory and compliance",
-            "pages": [
-              "karat-banking/regulatory-and-compliance/can-i-report-tax-related-concerns-for-my-account",
-              "karat-banking/regulatory-and-compliance/how-does-karat-banking-comply-with-banking-regulations",
-              "karat-banking/regulatory-and-compliance/is-karat-banking-fdic-insured"
-            ]
-          },
-          {
-            "group": "Rewards and benefits",
-            "pages": [
-              "karat-banking/rewards-and-benefits/are-there-any-partner-perks-or-discounts",
-              "karat-banking/rewards-and-benefits/does-karat-banking-offer-cashback-or-rewards",
-              "karat-banking/rewards-and-benefits/can-i-refer-creators-to-karat-banking",
-              "karat-banking/rewards-and-benefits/what-apy-rate-does-karat-currently-offer",
-              "karat-banking/rewards-and-benefits/what-is-an-atp-account",
-              "karat-banking/rewards-and-benefits/when-is-yield-paid-out-for-the-atp-account"
-            ]
-          }
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
         "tab": "General",
-        "groups": [
-          {
-            "group": "Support",
-            "pages": [
-              "karat-banking/customer-support-and-troubleshooting/how-do-i-contact-karat-banking-customer-support-what-hours-are-they-available"
-            ]
-          },
-          {
-            "group": "Account information",
-            "pages": [
-              "general/account-information/my-business-has-filed-for-bankruptcy",
-              "general/account-information/how-do-i-update-my-personal-information"
-            ]
-          },
-          {
-            "group": "Dashboard access",
-            "pages": [
-              "general/dashboard-access/where-can-i-find-my-account-details",
-              "general/dashboard-access/how-do-i-log-into-my-karat-account",
-              "general/dashboard-access/i-cant-log-in-how-do-i-reset-my-password",
-              "general/dashboard-access/how-do-i-change-my-password",
-              {
-                "group": "User roles and permissions",
-                "pages": [
-                  "general/dashboard-access/user-roles-and-permissions/how-do-i-change-a-members-role",
-                  "karat-banking/user-roles-and-permissions/what-are-the-different-user-roles-and-what-can-they-do",
-                  "karat-banking/user-roles-and-permissions/what-specific-banking-access-and-permission-does-each-role-have",
-                  "karat-banking/user-roles-and-permissions/what-specific-card-access-and-permission-does-each-role-have",
-                  "general/dashboard-access/user-roles-and-permissions/can-roles-be-shared-across-products",
-                  "general/dashboard-access/user-roles-and-permissions/what-happens-if-a-users-role-is-upgraded-or-downgraded",
-                  "general/dashboard-access/user-roles-and-permissions/how-do-i-invite-a-team-member"
-                ]
-              }
-            ]
-          },
-          {
-            "group": "Security and privacy",
-            "pages": [
-              "general/security-and-privacy/how-does-karat-protect-my-information",
-              "general/security-and-privacy/what-should-i-do-if-i-suspect-fraudulent-activity",
-              "general/security-and-privacy/does-karat-support-two-factor-authentication-2-fa"
-            ]
-          },
-          {
-            "group": "Karat + QuickBooks",
-            "pages": [
-              "general/karat-quick-books/karat-and-qbo-setup"
-            ]
-          }
+        "pages": [
+          "overview",
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       }
     ]
