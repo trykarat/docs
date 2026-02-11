@@ -377,6 +377,10 @@
       {
         "label": "Support",
         "href": "mailto:concierge@trykarat.com"
+      },
+      {
+        "label": "Dashboard",
+        "href": "https://app.trykarat.com/signin"
       }
     ],
     "primary": {
